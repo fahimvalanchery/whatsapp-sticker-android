@@ -1,0 +1,749 @@
+
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": " Memes 1",
+      "publisher": "Innocz Software Solutions",
+      "tray_image_file": "file_996049.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://www.innocz.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_996024.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "file_996025.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "file_996026.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "file_996027.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "file_996028.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "file_996029.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "file_996030.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "file_996031.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "file_996032.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "file_996033.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "file_996034.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "file_996035.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "file_996036.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "file_996037.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "file_996038.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "file_996039.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "file_996040.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "file_996041.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "file_996042.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "file_996043.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "file_996044.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "file_996045.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "file_996046.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "file_996047.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "file_996048.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996049.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996050.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996051.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996052.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": " Memes 2",
+      "publisher": "Innocz Software Solutions",
+      "tray_image_file": "file_996053.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://www.innocz.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_996053.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996054.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996055.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996056.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996057.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996058.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996059.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996060.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996061.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996062.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996063.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996064.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996065.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996066.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996067.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996068.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996069.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996070.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996071.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996072.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996073.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996074.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996075.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996076.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996077.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996078.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996079.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996080.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996081.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996082.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": " Memes 3",
+      "publisher": "Innocz Software Solutions",
+      "tray_image_file": "file_996083.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://www.innocz.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_996083.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996084.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996085.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996086.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996087.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996088.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996089.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996090.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996091.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996092.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996093.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996094.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996095.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996096.webp",
+          "emojis": ["🔋","😵"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "ചളി മലയാളം 1",
+      "publisher": "Innocz Software Solutions",
+      "tray_image_file": "file_996353.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://www.innocz.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_996353.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996354.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996355.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996356.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996357.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996358.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996359.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996360.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996361.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996362.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996363.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996364.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996365.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996366.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996367.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996368.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996369.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996370.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996371.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996372.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996373.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996374.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996375.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996376.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996377.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996378.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996379.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996380.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996381.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996382.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "ചളി മലയാളം 2",
+      "publisher": "Innocz Software Solution",
+      "tray_image_file": "file_996383.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://www.innocz.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_996383.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996384.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996385.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996386.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996387.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996388.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996389.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996390.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996391.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996392.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996393.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996394.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996395.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996396.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996397.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996398.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996399.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996400.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996401.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996402.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996403.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996404.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996405.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996406.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996407.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996408.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996409.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996410.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996411.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996412.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "ചളി മലയാളം 3",
+      "publisher": "Innocz Software Solution",
+      "tray_image_file": "file_996413.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://www.innocz.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_996414.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996414.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996415.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996416.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996417.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996418.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996419.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996420.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996421.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996422.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996423.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996424.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996425.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996426.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996427.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996428.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996429.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996430.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996431.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996432.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996433.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996434.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996435.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996436.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996437.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996438.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996439.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996440.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996441.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ,{
+          "image_file": "file_996442.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "ചളി മലയാളം 4",
+      "publisher": "Innocz Software Solution",
+      "tray_image_file": "file_996443.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://www.innocz.com/",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "file_996443.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "file_996444.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996445.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996446.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996447.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996448.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996449.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996450.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996451.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996452.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996453.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996454.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996455.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996456.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996457.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996458.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996459.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996460.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996461.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996462.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996463.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996464.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996465.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996466.webp",
+          "emojis": ["🔋","😵"]
+        },{
+          "image_file": "file_996467.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    }
+  ]
+}
