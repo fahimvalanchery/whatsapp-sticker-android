@@ -4,6 +4,1641 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "17",
+      "name": "Kerala Blasters",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        }
+      ]
+    },
+    {
+      "identifier": "16",
+      "name": "Damu",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        }
+      ]
+    },
+    {
+      "identifier": "18",
+      "name": "Text 1",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "04.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+
+        {
+          "image_file": "04.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "19",
+      "name": "Text 2",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "01.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "20",
+      "name": "Text 3",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "01.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "24",
+      "name": "Emoji 1",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "01.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "25",
+      "name": "Emoji 2",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "01.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "26",
+      "name": "Emoji 3",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "01.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "27",
+      "name": "Emoji 4",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "04.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": " Angry Birds",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["😍","♥"]
+        }
+      ]
+    },
+    {
+      "identifier": "15",
+      "name": " Minions 1",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "10",
+      "name": "Minions 2",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        }
+      ]
+    },{
+      "identifier": "11",
+      "name": "Emotions 1",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "12",
+      "name": " Emotions 2",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },{
+      "identifier": "13",
+      "name": "Emotions 3",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "1.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        }
+      ]
+    },{
       "identifier": "1",
       "name": " Memes 1",
       "publisher": "Innocz Software Solutions",
@@ -332,6 +1967,131 @@
 
       ]
     },
+
+    {
+      "identifier": "23",
+      "name": "Troll 1",
+      "publisher": "iNNOCZ Software Solutions",
+      "tray_image_file": "01.webp",
+      "publisher_email":"innoczonline@gmail.com",
+      "publisher_website": "http://m.me/innoczonline",
+      "privacy_policy_website": "http://www.innocz.com",
+      "license_agreement_website": "https://t.me/fahimvalanhery",
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["🔋","😵"]
+        }
+      ]
+    },
     {
       "identifier": "4",
       "name": "ചളി മലയാളം 1",
@@ -443,7 +2203,7 @@
     {
       "identifier": "5",
       "name": "ചളി മലയാളം 2",
-      "publisher": "Innocz Software Solution",
+      "publisher": "Innocz Software Solutions",
       "tray_image_file": "file_996383.webp",
       "publisher_email":"innoczonline@gmail.com",
       "publisher_website": "http://www.innocz.com/",
@@ -551,7 +2311,7 @@
     {
       "identifier": "6",
       "name": "ചളി മലയാളം 3",
-      "publisher": "Innocz Software Solution",
+      "publisher": "Innocz Software Solutions",
       "tray_image_file": "file_996413.webp",
       "publisher_email":"innoczonline@gmail.com",
       "publisher_website": "http://www.innocz.com/",
@@ -659,7 +2419,7 @@
     {
       "identifier": "7",
       "name": "ചളി മലയാളം 4",
-      "publisher": "Innocz Software Solution",
+      "publisher": "Innocz Software Solutions",
       "tray_image_file": "file_996443.webp",
       "publisher_email":"innoczonline@gmail.com",
       "publisher_website": "http://www.innocz.com/",
@@ -745,5 +2505,7 @@
         }
       ]
     }
-  ]
-}
+
+      ]
+    }
+
